@@ -1,0 +1,8 @@
+C:\Users\astrid.rangba\Documents\C#\BeKindRewind\BeKindRewind\bin\Debug\netstandard2.0\BeKindRewind.deps.json
+C:\Users\astrid.rangba\Documents\C#\BeKindRewind\BeKindRewind\bin\Debug\netstandard2.0\BeKindRewind.dll
+C:\Users\astrid.rangba\Documents\C#\BeKindRewind\BeKindRewind\bin\Debug\netstandard2.0\BeKindRewind.pdb
+C:\Users\astrid.rangba\Documents\C#\BeKindRewind\BeKindRewind\obj\Debug\netstandard2.0\BeKindRewind.csprojAssemblyReference.cache
+C:\Users\astrid.rangba\Documents\C#\BeKindRewind\BeKindRewind\obj\Debug\netstandard2.0\BeKindRewind.AssemblyInfoInputs.cache
+C:\Users\astrid.rangba\Documents\C#\BeKindRewind\BeKindRewind\obj\Debug\netstandard2.0\BeKindRewind.AssemblyInfo.cs
+C:\Users\astrid.rangba\Documents\C#\BeKindRewind\BeKindRewind\obj\Debug\netstandard2.0\BeKindRewind.dll
+C:\Users\astrid.rangba\Documents\C#\BeKindRewind\BeKindRewind\obj\Debug\netstandard2.0\BeKindRewind.pdb

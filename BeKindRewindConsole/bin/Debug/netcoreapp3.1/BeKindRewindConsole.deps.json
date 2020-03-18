@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BeKindRewindConsole/1.0.0": {
+        "dependencies": {
+          "BeKindRewind": "1.0.0"
+        },
+        "runtime": {
+          "BeKindRewindConsole.dll": {}
+        }
+      },
+      "BeKindRewind/1.0.0": {
+        "runtime": {
+          "BeKindRewind.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BeKindRewindConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BeKindRewind/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

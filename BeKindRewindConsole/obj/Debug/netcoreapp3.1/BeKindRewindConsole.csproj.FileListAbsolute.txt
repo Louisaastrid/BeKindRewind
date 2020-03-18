@@ -1,0 +1,14 @@
+C:\Users\astrid.rangba\Documents\C#\BeKindRewind\BeKindRewindConsole\bin\Debug\netcoreapp3.1\BeKindRewindConsole.exe
+C:\Users\astrid.rangba\Documents\C#\BeKindRewind\BeKindRewindConsole\bin\Debug\netcoreapp3.1\BeKindRewindConsole.deps.json
+C:\Users\astrid.rangba\Documents\C#\BeKindRewind\BeKindRewindConsole\bin\Debug\netcoreapp3.1\BeKindRewindConsole.runtimeconfig.json
+C:\Users\astrid.rangba\Documents\C#\BeKindRewind\BeKindRewindConsole\bin\Debug\netcoreapp3.1\BeKindRewindConsole.runtimeconfig.dev.json
+C:\Users\astrid.rangba\Documents\C#\BeKindRewind\BeKindRewindConsole\bin\Debug\netcoreapp3.1\BeKindRewindConsole.dll
+C:\Users\astrid.rangba\Documents\C#\BeKindRewind\BeKindRewindConsole\bin\Debug\netcoreapp3.1\BeKindRewindConsole.pdb
+C:\Users\astrid.rangba\Documents\C#\BeKindRewind\BeKindRewindConsole\bin\Debug\netcoreapp3.1\BeKindRewind.dll
+C:\Users\astrid.rangba\Documents\C#\BeKindRewind\BeKindRewindConsole\bin\Debug\netcoreapp3.1\BeKindRewind.pdb
+C:\Users\astrid.rangba\Documents\C#\BeKindRewind\BeKindRewindConsole\obj\Debug\netcoreapp3.1\BeKindRewindConsole.csprojAssemblyReference.cache
+C:\Users\astrid.rangba\Documents\C#\BeKindRewind\BeKindRewindConsole\obj\Debug\netcoreapp3.1\BeKindRewindConsole.AssemblyInfoInputs.cache
+C:\Users\astrid.rangba\Documents\C#\BeKindRewind\BeKindRewindConsole\obj\Debug\netcoreapp3.1\BeKindRewindConsole.AssemblyInfo.cs
+C:\Users\astrid.rangba\Documents\C#\BeKindRewind\BeKindRewindConsole\obj\Debug\netcoreapp3.1\BeKindRewindConsole.csproj.CopyComplete
+C:\Users\astrid.rangba\Documents\C#\BeKindRewind\BeKindRewindConsole\obj\Debug\netcoreapp3.1\BeKindRewindConsole.dll
+C:\Users\astrid.rangba\Documents\C#\BeKindRewind\BeKindRewindConsole\obj\Debug\netcoreapp3.1\BeKindRewindConsole.pdb
